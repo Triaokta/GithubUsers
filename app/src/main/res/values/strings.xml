@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="search_hint">Search</string>
+    <string name="empty_search">Not Found</string>
+    <string name="user_fullname">Nama Pengguna</string>
+    <string name="username">\@username</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="_200">200</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="text_error">Terjadi Kesalahan</string>
+    <string name="empty_data">Data kosong</string>
+    <string name="no_followers_found">No Followers Found!</string>
+    <string name="no_following_found">No Following Found</string>
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="share">share</string>
+    <string name="tab_layout">Tab Layout</string>
+    <string name="fav_button">Favorite Button</string>
+</resources>
